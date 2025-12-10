@@ -36,7 +36,7 @@
     background-color:rgb(127, 0, 0);
     color: seashell;
     justify-content: space-around;
-    padding: 30px;
+    padding: 75px;
     height: 100%;
     align-items: center;
 }
@@ -75,7 +75,7 @@
     color:seashell;
     justify-content: space-around;
     padding: 10px;
-    height: 50%;
+    height: 25%;
     align-items: center;
 }.row6{
     display: flex;
