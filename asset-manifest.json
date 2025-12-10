@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/linkline/static/css/main.a86ac6f2.css",
+    "main.js": "/linkline/static/js/main.025d9cb0.js",
+    "index.html": "/linkline/index.html",
+    "main.a86ac6f2.css.map": "/linkline/static/css/main.a86ac6f2.css.map",
+    "main.025d9cb0.js.map": "/linkline/static/js/main.025d9cb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a86ac6f2.css",
+    "static/js/main.025d9cb0.js"
+  ]
+}
