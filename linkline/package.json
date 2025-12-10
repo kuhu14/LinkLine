@@ -38,4 +38,9 @@
       "last 1 safari version"
     ]
   }
+  "homepage": "https://kuhum.github.io/linkline",
+  "scripts":{
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
 }
